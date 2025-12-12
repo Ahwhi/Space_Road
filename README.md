@@ -29,13 +29,13 @@
 
 ### 📋 플레이 영상
 
-Link: https://youtu.be/XiNa4PAX0yM
+Link: [https://youtu.be/XiNa4PAX0yM](https://youtu.be/fzjLE2cDUuE)
 
 ---
 
 ### 🔎 게임 미리보기
-![SCR0](https://github.com/Ahwhi/KBO_MANAGER_2025/blob/main/ScreenShots/0.png)
-![SCR1](https://github.com/Ahwhi/KBO_MANAGER_2025/blob/main/ScreenShots/1.png)
+![SCR0](https://github.com/Ahwhi/Space_Road/blob/main/ScreenShots/1.png)
+![SCR1](https://github.com/Ahwhi/Space_Road/blob/main/ScreenShots/2.png)
 
 ---
 
