@@ -1,4 +1,4 @@
-## 🎮 SPACE_ROAD
+## 🎮 Space_Road
 
 🏏 V1.0 (2024년 10월 21일)
 
